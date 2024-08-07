@@ -18,13 +18,19 @@ Follow these steps to set up the project and start working on the exercises.
 #### Using Command Line
 
 1. Open your terminal.
-2. Clone your forked repository using the following command (replace `your-username` with your GitHub username):
+2. Change directory to your workshop/development folder
+
+  ```bash
+    cd <directory>
+    ```
+
+4. Clone your forked repository using the following command (replace `your-username` with your GitHub username):
 
     ```bash
     git clone https://github.com/your-username/basic-js-challenge.git
     ```
 
-3. Navigate to the project directory:
+5. Navigate to the project directory:
 
     ```bash
     cd basic-js-challenge
