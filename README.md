@@ -2,7 +2,7 @@
 
 Welcome to the Basic JavaScript Programming Challenge! This repository contains a set of basic JavaScript exercises that you will complete and validate using automated tests.
 
-The Challenges can be found at JS/basics.js 
+The Challenges can be found at JS/basics.js, DO NOT TUTU WITH THE OTHER FILES
 
 ## Getting Started
 
