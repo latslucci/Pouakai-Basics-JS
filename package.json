@@ -1,0 +1,14 @@
+{
+  "name": "coding-lesson",
+  "version": "1.0.0",
+  "description": "Basic programming questions for students",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "Te Piha",
+  "license": "MIT",
+  "keywords": []
+}
