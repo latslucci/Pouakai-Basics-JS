@@ -20,9 +20,9 @@ Follow these steps to set up the project and start working on the exercises.
 1. Open your terminal.
 2. Change directory to your workshop/development folder
 
-  ```bash
+```bash
     cd <directory>
-    ```
+```
 
 4. Clone your forked repository using the following command (replace `your-username` with your GitHub username):
 
