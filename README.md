@@ -10,7 +10,7 @@ Follow these steps to set up the project and start working on the exercises.
 
 ### 1. Fork the Repository
 
-1. Go to the [repository on GitHub](https://github.com/NGEN-Room/Pouakai-Basics.git) (replace with your actual repo link).
+1. Go to the [repository on GitHub](https://github.com/NGEN-Room/Pouakai-Basics.git).
 2. Click the "Fork" button at the top-right corner of the page to create a copy of this repository under your GitHub account.
 
 ### 2. Clone the Repository
@@ -27,7 +27,7 @@ Follow these steps to set up the project and start working on the exercises.
 4. Clone your forked repository using the following command (replace `your-username` with your GitHub username):
 
     ```bash
-    git clone https://github.com/your-username/basic-js-challenge.git
+    git clone https://github.com/your-username/Pouakai-Basics-JS.git
     ```
 
 5. Navigate to the project directory:
