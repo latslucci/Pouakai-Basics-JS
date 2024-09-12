@@ -23,9 +23,14 @@
 
 // 8. Define your favoriteColor variable as myFavColor
 
-
-
-
+var myName = "Latino"
+var age = "22"
+var isStudent = false
+var favouriteColor = ""
+var greeting = "Hello, World!"
+var myUndefined = ''
+var myFavColor = "Purple"
+favouriteColor = myFavColor
 
 
 
